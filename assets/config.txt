@@ -1,0 +1,21 @@
+programs(../../programs/) {
+	MobaXTerm/MobaXterm_Personal_25.4.exe
+	libresprite/libresprite.exe
+	../programming/gl/main090226.exe
+}
+
+windowRadius:     12
+windowBorderSize: 2
+windowPadding:    8
+
+itemRadius:     6
+itemBorderSize: 2
+itemPadding:    4
+
+itemCloseGap: 3
+itemSize:     32
+
+windowBGColour:      #241c36
+windowBorderColour:  #eebb80
+itemBorderOffColour: #dd8080
+itemBorderOnColour:  #aa3080
